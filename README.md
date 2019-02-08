@@ -55,7 +55,7 @@ conda install git
 1. Clone the repository, and navigate to the downloaded folder.
 ```
 git clone https://github.com/aadimator/deep-learning-nanodegree.git
-cd deep-learning-v2-pytorch
+cd deep-learning-nanodegree
 ```
 
 2. Create (and activate) a new environment, named `deep-learning` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
@@ -71,7 +71,7 @@ cd deep-learning-v2-pytorch
 	activate deep-learning
 	```
 	
-	At this point your command line should look something like: `(deep-learning) <User>:deep-learning-v2-pytorch <user>$`. The `(deep-learning)` indicates that your environment has been activated, and you can proceed with further package installations.
+	At this point your command line should look something like: `(deep-learning) <User>:deep-learning-nanodegree <user>$`. The `(deep-learning)` indicates that your environment has been activated, and you can proceed with further package installations.
 
 3. Install PyTorch and torchvision; this should install the latest version of PyTorch.
 	
